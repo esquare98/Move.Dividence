@@ -1,3 +1,5 @@
 # Move.Dividence
-#Solidity
-#😇 learn
+#Solidity : zksnarks "rollups" ;
+func : verify "delegator", "sign",
+approver: "staker" ;
+     <stake_governance>
