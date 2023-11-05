@@ -1,1 +1,5 @@
-T
+Test on Sepolia.Gerli
+use unique api,
+<rpc, sepolia,
+https://sepolia.infura.io/v3/40b26c8b3afe46b3b976522ce9852875>
+<rpc, transcount@(mintscan)
