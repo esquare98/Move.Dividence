@@ -1,5 +1,3 @@
 # Move.Dividence
-#Solidity : zksnarks "rollups" ;
-func : verify "delegator", "sign",
-approver: "staker" ;
-     <stake_governance>
+Combine Notes of "Luinr"
+Aim for Faster Verifiers
